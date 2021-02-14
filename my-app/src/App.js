@@ -1,7 +1,7 @@
 import Homepage from './components/homepage_component/homepage';
 import Polaroid from './components/polaroid_component/polaroid';
 import Survey from './components/survey_component/survey';
-import{BrowserRouter as Router,Route,Link,Switch} from "react-router-dom";
+import{BrowserRouter as Router, Route, Link, Switch} from "react-router-dom";
 
 function App() {
   return (
@@ -14,7 +14,6 @@ function App() {
           </Route>
           <Route path="/survey">
             <Survey />
-
           </Route>
           <Route path="/date">
             <div>Insert Date component here</div>

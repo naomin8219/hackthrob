@@ -4,7 +4,7 @@
 }
 
 
-.outter-box{
+.outter-box-survey{
     height: 550px;
     width: 458.33px;
     background-color: #eae9ed;
@@ -16,7 +16,7 @@
 }
 
 
-.tape{
+.tape-survey{
     overflow:visible;
     position:relative;
     height: 35px;
@@ -29,7 +29,7 @@
 }
 
 
-.inner-box{
+.inner-box-survey{
     position:relative;
     height: 520px;
     width: 430px;
@@ -40,7 +40,7 @@
     outline-color: #eae9ed
 }
 
-.to{
+.to-survey{
     position: relative;
     font-family:typewriter;
     color:#483d3f;
@@ -48,7 +48,7 @@
     left: 7%;
 }
 
-.from{
+.from-survey{
     position: relative;
     font-family:typewriter;
     color:#483d3f;
@@ -56,7 +56,7 @@
     left: 7%;
 }
 
-.text{
+.text-survey{
     color:#483d3f;
     position: relative;
     font-size: 18px;

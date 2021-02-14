@@ -6,7 +6,7 @@
 
 @font-face{
     font-family: belove;
-    scr: url(./Belove.otf)
+    src: url(./Belove.otf);
 }
 
 .outter-box{
@@ -29,8 +29,7 @@
     background-color: #FFFFFF;
     opacity:60%;
     margin: 0 auto;
-    bottom: 2.5%
-
+    bottom: 2.5%;
 }
 
 
@@ -66,6 +65,4 @@ img{
     top: 9%;
     left: 70%;
     font-family:belove;
-
-
 }
