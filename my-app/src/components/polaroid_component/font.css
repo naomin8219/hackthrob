@@ -1,0 +1,8 @@
+@font-face{
+    font-family: typewriter;
+    src: url(./TT2020StyleE-Regular.ttf);
+}
+
+.typewriter{
+    font-family: typewriter;
+}

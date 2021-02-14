@@ -1,0 +1,72 @@
+
+@font-face{
+    font-family: typewriter;
+    src: url(./TT2020StyleE-Regular.ttf);
+}
+
+
+@font-face{
+    font-family: belove;
+    scr: url(./Belove.otf)
+}
+
+.outter-box{
+    height: 550px;
+    width: 458.33px;
+    background-color: #f6f6f6;
+    box-shadow: 0px 0.5px 3px #b6a9a9;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 5%;
+
+}
+
+
+.tape{
+    overflow:visible;
+    position:relative;
+    height: 35px;
+    width: 140px;
+    background-color: #FFFFFF;
+    opacity:60%;
+    margin: 0 auto;
+    bottom: 2.5%
+   
+}
+
+
+.inner-box{
+    position:relative;
+    height: 380px;
+    width: 390px;
+    background-color: #f6f6f6;
+    box-shadow: 0px 0.5px 3px #b6a9a9;
+    margin: 0 auto;
+    top:3%;
+}
+
+img{
+    position:relative;
+    height:380px;
+    width: 390px;
+
+}
+
+.text{
+    color:#483d3f;
+    position: relative;
+    font-size: 20px;
+    top: 3%;
+    left: 4.5%;
+    font-family:typewriter;
+}
+
+.date{
+    position: relative;
+    font-size: 24px;
+    top: 9%;
+    left: 70%;
+    font-family:belove;
+
+
+}
