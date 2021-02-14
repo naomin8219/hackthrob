@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ef9f0f9.chunk.css",
+    "main.js": "/static/js/main.5007e959.chunk.js",
+    "main.js.map": "/static/js/main.5007e959.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ecd872c3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ecd872c3.js.map",
+    "static/js/2.60f826fd.chunk.js": "/static/js/2.60f826fd.chunk.js",
+    "static/js/2.60f826fd.chunk.js.map": "/static/js/2.60f826fd.chunk.js.map",
+    "static/js/3.f9c6ee12.chunk.js": "/static/js/3.f9c6ee12.chunk.js",
+    "static/js/3.f9c6ee12.chunk.js.map": "/static/js/3.f9c6ee12.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2ef9f0f9.chunk.css.map": "/static/css/main.2ef9f0f9.chunk.css.map",
+    "static/js/2.60f826fd.chunk.js.LICENSE.txt": "/static/js/2.60f826fd.chunk.js.LICENSE.txt",
+    "static/media/polaroid.css": "/static/media/TT2020StyleE-Regular.3d4eec72.ttf",
+    "static/media/train.62b19e82.jpeg": "/static/media/train.62b19e82.jpeg",
+    "static/media/survey.css": "/static/media/typewriter.3d4eec72.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecd872c3.js",
+    "static/js/2.60f826fd.chunk.js",
+    "static/css/main.2ef9f0f9.chunk.css",
+    "static/js/main.5007e959.chunk.js"
+  ]
+}

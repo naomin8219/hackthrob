@@ -1,0 +1,113 @@
+@font-face{
+    font-family: typewriter;
+    src: url(./typewriter.ttf);
+}
+
+
+.outter-box{
+    height: 550px;
+    width: 458.33px;
+    background-color: #eae9ed;
+    box-shadow: 0px 0.5px 3px #b6a9a9;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 5%;
+
+}
+
+
+.tape{
+    overflow:visible;
+    position:relative;
+    height: 35px;
+    width: 140px;
+    background-color: #FFFFFF;
+    opacity:60%;
+    margin: 0 auto;
+    bottom: 2.5%
+
+}
+
+
+.inner-box{
+    position:relative;
+    height: 520px;
+    width: 430px;
+    background-color: #f6f6f6;
+    box-shadow: 0px 0.5px 3px #b6a9a9;
+    margin: 0% auto;
+    top: -18px;
+    outline-color: #eae9ed
+}
+
+.to{
+    position: relative;
+    font-family:typewriter;
+    color:#483d3f;
+    top: 10%;
+    left: 7%;
+}
+
+.from{
+    position: relative;
+    font-family:typewriter;
+    color:#483d3f;
+    top: 12%;
+    left: 7%;
+}
+
+.text{
+    color:#483d3f;
+    position: relative;
+    font-size: 18px;
+    top: 35.5%;
+    text-align: center;
+    left: 2%;
+    font-family:typewriter;
+
+
+}
+
+.custom-select{
+  padding: 6.5px;
+  width: 45%;
+  left: 22%;
+  height: 12px;
+  background: #fff;
+  border:1px;
+  border-style:solid;
+  border-color:#483d3f;
+  position: relative;
+  bottom: -40%;
+}
+
+select {
+  padding: 1.5px;
+  width: 100%;
+  left: 1%;
+  position: relative;
+  border:0px;
+  border-color:#483d3f;
+  bottom: 40%;
+  background:#ffff;
+
+}
+
+.button_{
+    position: relative;
+    bottom: -35%;
+    left: 74%;
+}
+
+.button {
+  position: relative;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
